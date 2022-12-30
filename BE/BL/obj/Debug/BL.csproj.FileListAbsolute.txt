@@ -1,0 +1,14 @@
+D:\exelence\BE\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\exelence\BE\BL\bin\Debug\BL.dll.config
+D:\exelence\BE\BL\bin\Debug\BL.dll
+D:\exelence\BE\BL\bin\Debug\BL.pdb
+D:\exelence\BE\BL\bin\Debug\DAL.dll
+D:\exelence\BE\BL\bin\Debug\DTO.dll
+D:\exelence\BE\BL\bin\Debug\EntityFramework.dll
+D:\exelence\BE\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\exelence\BE\BL\bin\Debug\DAL.pdb
+D:\exelence\BE\BL\bin\Debug\DTO.pdb
+D:\exelence\BE\BL\bin\Debug\EntityFramework.xml
+D:\exelence\BE\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\exelence\BE\BL\obj\Debug\BL.dll
+D:\exelence\BE\BL\obj\Debug\BL.pdb

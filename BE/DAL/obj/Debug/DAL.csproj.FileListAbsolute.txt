@@ -1,0 +1,10 @@
+D:\exelence\BE\DAL\bin\Debug\DAL.dll.config
+D:\exelence\BE\DAL\bin\Debug\DAL.dll
+D:\exelence\BE\DAL\bin\Debug\DAL.pdb
+D:\exelence\BE\DAL\bin\Debug\EntityFramework.dll
+D:\exelence\BE\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\exelence\BE\DAL\bin\Debug\EntityFramework.xml
+D:\exelence\BE\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\exelence\BE\DAL\obj\Debug\DAL.dll
+D:\exelence\BE\DAL\obj\Debug\DAL.pdb
+D:\exelence\BE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
